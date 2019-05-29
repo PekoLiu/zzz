@@ -5,9 +5,7 @@ public class Hname {
 	public static void main(String[] args) {
 		System.out.println("nihao");
 		System.out.println("haha");
-		System.out.println("yaacv");
-		System.out.println("749");
-		System.out.println("749dv");
+
 	}
 
 }
