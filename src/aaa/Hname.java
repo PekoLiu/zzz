@@ -6,6 +6,7 @@ public class Hname {
 		System.out.println("nihao");
 		System.out.println("haha");
 		System.out.println("yaacv");
+		System.out.println("749");
 	}
 
 }
