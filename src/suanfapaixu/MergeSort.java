@@ -3,7 +3,14 @@ package suanfapaixu;
 import java.util.Arrays;
 
 import org.junit.Test;
-
+/**
+ * 归并排序
+ * 
+ * @author Peko.Liu
+ * @version 1.0 
+ * Settime：2019年6月2日  下午5:40:28
+ *
+ */
 public class MergeSort {
 
 	@Test

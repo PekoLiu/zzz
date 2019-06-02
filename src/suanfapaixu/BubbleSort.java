@@ -1,7 +1,14 @@
 package suanfapaixu;
 
 import org.junit.Test;
-
+/**
+ * 冒泡排序
+ *
+ * @author Peko.Liu
+ * @version 1.0 
+ * Settime：2019年6月2日  下午5:40:00
+ *
+ */
 public class BubbleSort {
 	@Test
 	public void test() {

@@ -1,7 +1,14 @@
 package suanfapaixu;
 
 import org.junit.Test;
-
+/**
+ * 选择排序
+ * 
+ * @author Peko.Liu
+ * @version 1.0 
+ * Settime：2019年6月2日  下午5:39:48
+ *
+ */
 public class ChooseSort {
 	@Test
 	public void test() {
